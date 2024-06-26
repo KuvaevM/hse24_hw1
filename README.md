@@ -1,5 +1,3 @@
-# hse24_hw1
-
 ## Per base sequence content
 ![1 график](imgs/PbSQ.png)
 ![2 график](imgs/PbSQ2.png)
